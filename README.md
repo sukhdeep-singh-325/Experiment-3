@@ -12,8 +12,7 @@ To create a concurrent ticket booking system with seat locking using Redis, prev
 
 Run the code live in your browser — **no installation required**:
 
-[![Try on Replit](https://img.shields.io/badge/Demo-Try%20on%20Replit-orange?logo=replit)](https://replit.com/languages/python3)
-
+[![Live Demo on Replit](https://img.shields.io/badge/Demo-Live%20on%20Replit-orange?logo=replit)](https://replit.com/@kalerona58/Experiment-3-Redis-Ticket-Booking)(https://replit.com/languages/python3)
 > **How to run the demo:**
 > 1. Go to [https://replit.com/languages/python3](https://replit.com/languages/python3)
 > 2. Install the Redis client: in the Shell tab run `pip install redis`
